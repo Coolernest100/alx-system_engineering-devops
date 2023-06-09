@@ -1,9 +1,2 @@
-#! /bin/sh.
-ernest@ubuntu:/root# pwd
-/root
-ernest@ubuntu:/root# echo $HOME
-/home/ernest
-ernest@ubuntu:/root# source ./2-bring_me_home
-ernest@ubuntu:# pwd
-home/ernest
-ernest@ubuntu:~#
+#!/bin/bash
+cd ~
